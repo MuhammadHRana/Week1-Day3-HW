@@ -1,0 +1,27 @@
+.image-top {
+    justify-content: center;
+    margin: 50px;
+
+}
+
+.container-fluid {
+    border: solid;
+}
+
+.button {
+    background-color: rgb(251, 201, 107);
+    justify-content: flex-start;
+}
+
+h2 {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+}
+
+h2 span {
+    background: #fff;
+    padding: 0 10px;
+}
